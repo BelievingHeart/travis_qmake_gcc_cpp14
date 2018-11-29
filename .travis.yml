@@ -52,4 +52,6 @@ script:
   - qmake
   - make
   - ./travis_qmake_gcc_cpp14
-  
+
+git:
+  depth: 3
